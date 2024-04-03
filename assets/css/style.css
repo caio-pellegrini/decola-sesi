@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background-color: red;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
